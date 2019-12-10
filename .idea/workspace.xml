@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b47ac0d-a71c-49d5-afeb-6992804d84c3" name="Default Changelist" comment="" />
+    <list default="true" id="5b47ac0d-a71c-49d5-afeb-6992804d84c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Uj5Z58p7dSGEPjaunjIwfd6nzU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +35,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -120,7 +130,7 @@
       <workItem from="1575857219222" duration="2262000" />
       <workItem from="1575859589116" duration="2880000" />
       <workItem from="1575863419036" duration="1183000" />
-      <workItem from="1575870861853" duration="4599000" />
+      <workItem from="1575870861853" duration="6239000" />
     </task>
     <servers />
   </component>
@@ -144,45 +154,45 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1575877889362" />
-    <state width="846" height="212" key="GridCell.Tab.0.bottom" timestamp="1575881076895">
+    <state width="846" height="212" key="GridCell.Tab.0.bottom" timestamp="1575944553785">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575881076895" />
+    <state width="846" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575944553785" />
     <state width="846" height="212" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1575875049736" />
-    <state width="846" height="212" key="GridCell.Tab.0.center" timestamp="1575881076894">
+    <state width="846" height="212" key="GridCell.Tab.0.center" timestamp="1575944553784">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1575881076894" />
+    <state width="846" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1575944553784" />
     <state width="846" height="212" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1575875049733" />
-    <state width="846" height="212" key="GridCell.Tab.0.left" timestamp="1575881076893">
+    <state width="846" height="212" key="GridCell.Tab.0.left" timestamp="1575944553783">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1575881076893" />
+    <state width="846" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1575944553783" />
     <state width="846" height="212" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1575875049733" />
-    <state width="846" height="212" key="GridCell.Tab.0.right" timestamp="1575881076895">
+    <state width="846" height="212" key="GridCell.Tab.0.right" timestamp="1575944553784">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1575881076895" />
+    <state width="846" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1575944553784" />
     <state width="846" height="212" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1575875049735" />
-    <state width="846" height="212" key="GridCell.Tab.1.bottom" timestamp="1575881076897">
+    <state width="846" height="212" key="GridCell.Tab.1.bottom" timestamp="1575944553787">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575881076897" />
+    <state width="846" height="212" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575944553787" />
     <state width="846" height="212" key="GridCell.Tab.1.bottom/0.23.1280.736@0.23.1280.736" timestamp="1575875049738" />
-    <state width="846" height="212" key="GridCell.Tab.1.center" timestamp="1575881076896">
+    <state width="846" height="212" key="GridCell.Tab.1.center" timestamp="1575944553786">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1575881076896" />
+    <state width="846" height="212" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1575944553786" />
     <state width="846" height="212" key="GridCell.Tab.1.center/0.23.1280.736@0.23.1280.736" timestamp="1575875049737" />
-    <state width="846" height="212" key="GridCell.Tab.1.left" timestamp="1575881076896">
+    <state width="846" height="212" key="GridCell.Tab.1.left" timestamp="1575944553786">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1575881076896" />
+    <state width="846" height="212" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1575944553786" />
     <state width="846" height="212" key="GridCell.Tab.1.left/0.23.1280.736@0.23.1280.736" timestamp="1575875049737" />
-    <state width="846" height="212" key="GridCell.Tab.1.right" timestamp="1575881076897">
+    <state width="846" height="212" key="GridCell.Tab.1.right" timestamp="1575944553787">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="846" height="212" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1575881076897" />
+    <state width="846" height="212" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1575944553787" />
     <state width="846" height="212" key="GridCell.Tab.1.right/0.23.1280.736@0.23.1280.736" timestamp="1575875049738" />
     <state width="846" height="212" key="GridCell.Tab.2.bottom" timestamp="1575880196108">
       <screen x="0" y="0" width="1280" height="800" />
@@ -204,9 +214,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="0" y="0" width="816" height="800" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1575861713428" />
-    <state x="36" y="124" key="new project wizard" timestamp="1575874291784">
+    <state x="36" y="124" key="new project wizard" timestamp="1575944511328">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="36" y="124" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1575874291784" />
+    <state x="36" y="124" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1575944511328" />
   </component>
 </project>
