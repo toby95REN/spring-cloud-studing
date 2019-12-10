@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b47ac0d-a71c-49d5-afeb-6992804d84c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uj5Z58p7dSGEPjaunjIwfd6nzU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceRibbonApplication">
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="eureka_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cytest.eureka_client.EurekaClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cycctest.eureka_server.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cycctest.servicefeign.ServiceFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cycctest.service_ribbon.ServiceRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cycctest.servicezuul.ServiceZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ServiceRibbonApplication" />
+      <item itemvalue="Spring Boot.ServiceFeignApplication" />
+      <item itemvalue="Spring Boot.ServiceZuulApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b47ac0d-a71c-49d5-afeb-6992804d84c3" name="Default Changelist" comment="" />
+      <created>1575857215781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575857215781</updated>
+      <workItem from="1575857219222" duration="2262000" />
+      <workItem from="1575859589116" duration="2880000" />
+      <workItem from="1575863419036" duration="1183000" />
+      <workItem from="1575870861853" duration="4599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Notifications" timestamp="1575858818671">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1575858818671" />
+    <state x="240" y="65" key="#Project_Structure" timestamp="1575859387151">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1575859387151" />
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575859031544">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1575859031544" />
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1575877889362">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1575877889362" />
+    <state width="846" height="212" key="GridCell.Tab.0.bottom" timestamp="1575881076895">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575881076895" />
+    <state width="846" height="212" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1575875049736" />
+    <state width="846" height="212" key="GridCell.Tab.0.center" timestamp="1575881076894">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1575881076894" />
+    <state width="846" height="212" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1575875049733" />
+    <state width="846" height="212" key="GridCell.Tab.0.left" timestamp="1575881076893">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1575881076893" />
+    <state width="846" height="212" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1575875049733" />
+    <state width="846" height="212" key="GridCell.Tab.0.right" timestamp="1575881076895">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1575881076895" />
+    <state width="846" height="212" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1575875049735" />
+    <state width="846" height="212" key="GridCell.Tab.1.bottom" timestamp="1575881076897">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575881076897" />
+    <state width="846" height="212" key="GridCell.Tab.1.bottom/0.23.1280.736@0.23.1280.736" timestamp="1575875049738" />
+    <state width="846" height="212" key="GridCell.Tab.1.center" timestamp="1575881076896">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1575881076896" />
+    <state width="846" height="212" key="GridCell.Tab.1.center/0.23.1280.736@0.23.1280.736" timestamp="1575875049737" />
+    <state width="846" height="212" key="GridCell.Tab.1.left" timestamp="1575881076896">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1575881076896" />
+    <state width="846" height="212" key="GridCell.Tab.1.left/0.23.1280.736@0.23.1280.736" timestamp="1575875049737" />
+    <state width="846" height="212" key="GridCell.Tab.1.right" timestamp="1575881076897">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1575881076897" />
+    <state width="846" height="212" key="GridCell.Tab.1.right/0.23.1280.736@0.23.1280.736" timestamp="1575875049738" />
+    <state width="846" height="212" key="GridCell.Tab.2.bottom" timestamp="1575880196108">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.2.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575880196108" />
+    <state width="846" height="212" key="GridCell.Tab.2.center" timestamp="1575880196106">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.2.center/0.0.1280.800@0.0.1280.800" timestamp="1575880196106" />
+    <state width="846" height="212" key="GridCell.Tab.2.left" timestamp="1575880196106">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.2.left/0.0.1280.800@0.0.1280.800" timestamp="1575880196106" />
+    <state width="846" height="212" key="GridCell.Tab.2.right" timestamp="1575880196107">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="846" height="212" key="GridCell.Tab.2.right/0.0.1280.800@0.0.1280.800" timestamp="1575880196107" />
+    <state x="0" y="0" width="816" height="800" key="find.popup" timestamp="1575861713428">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="816" height="800" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1575861713428" />
+    <state x="36" y="124" key="new project wizard" timestamp="1575874291784">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="36" y="124" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1575874291784" />
+  </component>
+</project>
